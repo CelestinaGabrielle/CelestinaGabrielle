@@ -20,6 +20,8 @@
 </div>
 <br/>
 
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=CelestinaGabrielle&layout=compact)
+
 Sou uma desenvolvedora apaixonada pelo universo do front-end. Atualmente, estou me aprofundando em React, Next.js e TypeScript para criar experiências web dinâmicas e responsivas.
 
 📚 Com formação técnica em Informática pelo IFBA e experiência em desenvolvimento com Delphi e SQL, venho expandindo meu conhecimento em tecnologias modernas e padrões de boas práticas.
